@@ -1,0 +1,16 @@
+## Blog Link
+- [Mohsin-SE Blogs on Hashnode](http://mohsin-dev.hashnode.dev/)
+## Blogs:
+- [Why Version Control Exists: The Pendrive Problem](https://mohsin-dev.hashnode.dev/why-version-control-exists-the-pendrive-problem)
+- [Git for Beginners: Basics and Essential Commands](https://mohsin-dev.hashnode.dev/git-for-beginners-basics-and-essential-commands)
+- [Inside Git: How It Works and the Role of the .git Folder](https://mohsin-dev.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder)
+- [TCP Working: 3-Way Handshake & Reliable Communication](https://mohsin-dev.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://mohsin-dev.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http)
+- [How DNS Resolution Works](https://mohsin-dev.hashnode.dev/how-dns-resolution-works)
+- [DNS Record Types Explained](https://mohsin-dev.hashnode.dev/dns-record-types-explained)
+- [Getting Started with cURL](https://mohsin-dev.hashnode.dev/getting-started-with-curl)
+- [Understanding Network Devices](https://mohsin-dev.hashnode.dev/understanding-network-devices)
+- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://mohsin-dev.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup)
+- [CSS Selectors 101: Targeting Elements with Precision](https://mohsin-dev.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
+- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://mohsin-dev.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals)
+- [Understanding HTML Tags and Elements](https://mohsin-dev.hashnode.dev/understanding-html-tags-and-elements)
